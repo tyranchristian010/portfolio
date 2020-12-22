@@ -43,7 +43,7 @@ const tools = [
   },
   {
     icon: dot,
-    name: 'Web3.js / Ether.js',
+    name: 'Web3.js / Ethers.js',
     level:'75'
   },
   {
